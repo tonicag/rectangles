@@ -1,1 +1,1 @@
-# recctangles
+# rectangles
